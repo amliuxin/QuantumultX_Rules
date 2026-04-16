@@ -1,0 +1,68 @@
+# NAME: AI
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2026-04-17 02:20:00
+# HOST: 18
+# HOST-KEYWORD: 1
+# HOST-SUFFIX: 36
+# IP-ASN: 1
+# IP-CIDR: 2
+# TOTAL: 58
+HOST,browser-intake-datadoghq.com,AI_Tool
+HOST,chat.openai.com.cdn.cloudflare.net,AI_Tool
+HOST,openai-api.arkoselabs.com,AI_Tool
+HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,AI_Tool
+HOST,openaicomproductionae4b.blob.core.windows.net,AI_Tool
+HOST,production-openaicom-storage.azureedge.net,AI_Tool
+HOST,static.cloudflareinsights.com,AI_Tool
+HOST-SUFFIX,ai.com,AI_Tool
+HOST-SUFFIX,algolia.net,AI_Tool
+HOST-SUFFIX,api.statsig.com,AI_Tool
+HOST-SUFFIX,auth0.com,AI_Tool
+HOST-SUFFIX,chatgpt.com,AI_Tool
+HOST-SUFFIX,chatgpt.livekit.cloud,AI_Tool
+HOST-SUFFIX,client-api.arkoselabs.com,AI_Tool
+HOST-SUFFIX,events.statsigapi.net,AI_Tool
+HOST-SUFFIX,featuregates.org,AI_Tool
+HOST-SUFFIX,host.livekit.cloud,AI_Tool
+HOST-SUFFIX,identrust.com,AI_Tool
+HOST-SUFFIX,intercom.io,AI_Tool
+HOST-SUFFIX,intercomcdn.com,AI_Tool
+HOST-SUFFIX,launchdarkly.com,AI_Tool
+HOST-SUFFIX,oaistatic.com,AI_Tool
+HOST-SUFFIX,oaiusercontent.com,AI_Tool
+HOST-SUFFIX,observeit.net,AI_Tool
+HOST-SUFFIX,openai.com,AI_Tool
+HOST-SUFFIX,openaiapi-site.azureedge.net,AI_Tool
+HOST-SUFFIX,openaicom.imgix.net,AI_Tool
+HOST-SUFFIX,segment.io,AI_Tool
+HOST-SUFFIX,sentry.io,AI_Tool
+HOST-SUFFIX,stripe.com,AI_Tool
+HOST-SUFFIX,turn.livekit.cloud,AI_Tool
+HOST-KEYWORD,openai,AI_Tool
+IP-CIDR,24.199.123.28/32,AI_Tool
+IP-CIDR,64.23.132.171/32,AI_Tool
+IP-ASN,20473,AI_Tool
+HOST,aistudio.google.com,AI_Tool
+HOST,gemini.google.com,AI_Tool
+HOST,generativelanguage.googleapis.com,AI_Tool
+HOST-SUFFIX,ai.google.dev,AI_Tool
+HOST-SUFFIX,makersuite.google.com,AI_Tool
+HOST,api.anthropic.com,AI_Tool
+HOST,console.anthropic.com,AI_Tool
+HOST-SUFFIX,anthropic.com,AI_Tool
+HOST-SUFFIX,claude.ai,AI_Tool
+HOST-SUFFIX,claudeusercontent.com,AI_Tool
+HOST,api.x.ai,AI_Tool
+HOST,console.x.ai,AI_Tool
+HOST-SUFFIX,grok.com,AI_Tool
+HOST-SUFFIX,x.ai,AI_Tool
+HOST,api.perplexity.ai,AI_Tool
+HOST-SUFFIX,perplexity.ai,AI_Tool
+HOST-SUFFIX,pplx.ai,AI_Tool
+HOST,api.mistral.ai,AI_Tool
+HOST,console.mistral.ai,AI_Tool
+HOST-SUFFIX,mistral.ai,AI_Tool
+HOST-SUFFIX,poe.com,AI_Tool
+HOST-SUFFIX,character.ai,AI_Tool
+HOST,copilot.microsoft.com,AI_Tool
