@@ -1,0 +1,53 @@
+﻿# NAME: Steam
+# SOURCE: glados/Steam.list
+# MERGED: 2026-04-18
+# TOTAL: 48
+
+HOST-SUFFIX,store.steampowered.com
+HOST-SUFFIX,steampowered.com
+HOST-SUFFIX,steamgames.com
+HOST-SUFFIX,valvesoftware.com
+HOST-SUFFIX,s.team
+HOST-SUFFIX,steamcommunity.com
+HOST-SUFFIX,steamusercontent.com
+HOST-SUFFIX,steamstatic.com
+HOST-SUFFIX,steamcdn-a.akamaihd.net
+HOST-SUFFIX,cdn.cloudflare.steamstatic.com
+HOST-SUFFIX,cdn.akamai.steamstatic.com
+HOST-SUFFIX,steam-chat.com
+HOST-SUFFIX,steamcontent.com
+HOST-SUFFIX,steampipe.akamaized.net
+HOST-SUFFIX,lancache.steamcontent.com
+HOST-SUFFIX,edgecast.steamstatic.com
+HOST-SUFFIX,steambroadcast.akamaized.net
+HOST-SUFFIX,steamtv.cloud
+HOST-SUFFIX,api.steampowered.com
+HOST-SUFFIX,partner.steamgames.com
+HOST-SUFFIX,help.steampowered.com
+HOST-SUFFIX,support.steampowered.com
+HOST-SUFFIX,login.steampowered.com
+HOST-SUFFIX,checkout.steampowered.com
+HOST-SUFFIX,steamuserimages-a.akamaihd.net
+HOST-SUFFIX,steamvideo-a.akamaihd.net
+HOST-SUFFIX,steamcommunity-a.akamaihd.net
+HOST-SUFFIX,steamstore-a.akamaihd.net
+HOST-SUFFIX,media.steampowered.com
+HOST-SUFFIX,video.steampowered.com
+HOST-SUFFIX,workshop.steampowered.com
+HOST-SUFFIX,cloud.steampowered.com
+HOST-SUFFIX,steamcloud-us-west1.storage.googleapis.com
+HOST-SUFFIX,steamcloud-eu-west1.storage.googleapis.com
+HOST-SUFFIX,cache.steamcontent.com
+HOST-SUFFIX,content-origin.steampowered.com
+HOST-SUFFIX,valve.net
+HOST-SUFFIX,steamchina.com
+HOST-SUFFIX,csgo.wmsj.cn
+HOST-SUFFIX,wmsjsteam.com
+HOST-SUFFIX,epicgames.com
+HOST-SUFFIX,epicgames.dev
+HOST-SUFFIX,unrealengine.com
+HOST-SUFFIX,fortnite.com
+HOST-KEYWORD,steamcdn
+HOST-KEYWORD,steamcontent
+HOST-KEYWORD,steampowered
+HOST-KEYWORD,steamcommunity
