@@ -3,6 +3,7 @@
 .qoder
 .claude
 local_data
+docs
 
 __pycache__
 *.yml

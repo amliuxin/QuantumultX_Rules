@@ -3,14 +3,14 @@
 # MERGED: 2026-04-18
 # TOTAL: 11
 
-HOST-SUFFIX,tiktok.com,US
-HOST-SUFFIX,tiktokcdn.com,US
-HOST-SUFFIX,tiktokv.com,US
-HOST-SUFFIX,byteoversea.com,US
-HOST-SUFFIX,muscdn.com,US
-HOST-SUFFIX,musical.ly,US
-HOST-SUFFIX,tiktokcdn-us.com,US
-HOST-SUFFIX,ibytedtos.com,US
-HOST-KEYWORD,tiktok,US
-HOST-SUFFIX,glados.vip,US Fixed IP
-HOST-SUFFIX,glados.work,TW Fixed IP
+HOST-SUFFIX,tiktok.com
+HOST-SUFFIX,tiktokcdn.com
+HOST-SUFFIX,tiktokv.com
+HOST-SUFFIX,byteoversea.com
+HOST-SUFFIX,muscdn.com
+HOST-SUFFIX,musical.ly
+HOST-SUFFIX,tiktokcdn-us.com
+HOST-SUFFIX,ibytedtos.com
+HOST-KEYWORD,tiktok
+HOST-SUFFIX,glados.vip
+HOST-SUFFIX,glados.work
