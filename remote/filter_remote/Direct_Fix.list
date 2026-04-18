@@ -1,0 +1,7 @@
+# 直连修正规则
+# 防止部分国内域名被错误代理
+
+HOST-SUFFIX,aliyuncs.com,DIRECT
+HOST-SUFFIX,423down.com,DIRECT
+HOST-SUFFIX,aliyun.com,DIRECT
+HOST-SUFFIX,alibaba-inc.com,DIRECT
