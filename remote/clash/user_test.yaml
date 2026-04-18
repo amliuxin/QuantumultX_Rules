@@ -38,205 +38,205 @@ rules:
 - DOMAIN-KEYWORD,localhost,DIRECT
 - DOMAIN-SUFFIX,test-01-cn.gladns.com,DIRECT
 - DOMAIN-SUFFIX,test-01-cn.gladns.net,DIRECT
-- DOMAIN-SUFFIX,openai.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,ai.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,chatgpt.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,oaistatic.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,oaiusercontent.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,anthropic.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,claude.ai,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,gemini.google.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,bard.google.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,deepmind.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,deepmind.google,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,aistudio.google.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,makersuite.google.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,gemini.google,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,chat.google.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,generativelanguage.googleapis.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,ai.google.dev,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,aiplatform.googleapis.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,ai.google,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,ai.google.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,labs.google.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,labs.google,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,cloud.google.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,notebooklm.google.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,notebooklm.google,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,perplexity.ai,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,huggingface.co,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,mistral.ai,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,cohere.ai,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,cohere.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,groq.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,x.ai,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,grok.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,cursor.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,cursor.sh,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,cursorapi.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,cursor-cdn.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,together.ai,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,replicate.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,stability.ai,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,midjourney.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,poe.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,character.ai,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,inflection.ai,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,pi.ai,🇺🇸 美国 US-10
-- DOMAIN-KEYWORD,openai,🇺🇸 美国 US-10
-- DOMAIN-KEYWORD,claude,🇺🇸 美国 US-10
-- DOMAIN-KEYWORD,anthropic,🇺🇸 美国 US-10
-- DOMAIN-KEYWORD,gemini.google,🇺🇸 美国 US-10
-- DOMAIN-KEYWORD,generativelanguage,🇺🇸 美国 US-10
-- DOMAIN-KEYWORD,cursor,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,google.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,google.com.hk,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,google.co.jp,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,googleapis.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,googleapis.cn,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,gstatic.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,ggpht.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,googleusercontent.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,googlesyndication.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,googleadservices.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,google-analytics.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,play.google.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,play.googleapis.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,android.clients.google.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,android.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,googleplay.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,play-fe.googleapis.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,play-games.googleusercontent.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,play-lh.googleusercontent.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,arxiv.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,biorxiv.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,medrxiv.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,ssrn.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,philpapers.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,zenodo.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,figshare.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,osf.io,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,springer.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,springerlink.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,link.springer.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,sciencedirect.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,elsevier.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,nature.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,science.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,sciencemag.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,wiley.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,onlinelibrary.wiley.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,tandfonline.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,sagepub.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,cambridge.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,oxfordjournals.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,academic.oup.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,oup.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,pnas.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,cell.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,thelancet.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,bmj.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,nejm.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,acs.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,pubs.acs.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,rsc.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,iop.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,iopscience.iop.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,aip.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,aps.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,mdpi.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,frontiersin.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,plos.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,plosone.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,hindawi.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,degruyter.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,karger.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,emerald.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,ingentaconnect.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,annualreviews.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,ieee.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,ieeexplore.ieee.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,acm.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,dl.acm.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,jstor.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,muse.jhu.edu,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,projecteuclid.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,mathscinet.ams.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,ams.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,siam.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,doi.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,crossref.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,orcid.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,scopus.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,webofscience.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,clarivate.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,dimensions.ai,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,lens.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,nih.gov,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,ncbi.nlm.nih.gov,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,pubmed.gov,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,pubmedcentral.nih.gov,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,clinicaltrials.gov,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,cochranelibrary.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,uptodate.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,medscape.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,webmd.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,scholar.google.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,semanticscholar.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,academia.edu,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,researchgate.net,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,mendeley.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,zotero.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,connectedpapers.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,scite.ai,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,litmaps.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,inciteful.xyz,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,base-search.net,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,core.ac.uk,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,worldcat.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,loc.gov,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,proquest.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,ebsco.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,ebscohost.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,gale.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,dblp.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,paperswithcode.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,openreview.net,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,aclweb.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,aclanthology.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,neurips.cc,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,icml.cc,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,iclr.cc,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,cvpr.org,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,thecvf.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,wolfram.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,wolframalpha.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,mathworld.wolfram.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,overleaf.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,sharelatex.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,authorea.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,hypothes.is,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,gmail.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,googlemail.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,mail.google.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,gemini.google.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,bard.google.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,deepmind.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,deepmind.google,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,aistudio.google.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,makersuite.google.com,🇺🇸 美国 US-10
-- DOMAIN-KEYWORD,google,🇺🇸 美国 US-10
-- DOMAIN-KEYWORD,scholar.google,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,tiktok.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,tiktokcdn.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,tiktokv.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,byteoversea.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,muscdn.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,musical.ly,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,tiktokcdn-us.com,🇺🇸 美国 US-10
-- DOMAIN-SUFFIX,ibytedtos.com,🇺🇸 美国 US-10
-- DOMAIN-KEYWORD,tiktok,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,openai.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,ai.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,chatgpt.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,oaistatic.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,oaiusercontent.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,anthropic.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,claude.ai,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,gemini.google.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,bard.google.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,deepmind.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,deepmind.google,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,aistudio.google.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,makersuite.google.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,gemini.google,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,chat.google.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,generativelanguage.googleapis.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,ai.google.dev,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,aiplatform.googleapis.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,ai.google,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,ai.google.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,labs.google.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,labs.google,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,cloud.google.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,notebooklm.google.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,notebooklm.google,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,perplexity.ai,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,huggingface.co,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,mistral.ai,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,cohere.ai,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,cohere.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,groq.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,x.ai,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,grok.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,cursor.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,cursor.sh,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,cursorapi.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,cursor-cdn.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,together.ai,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,replicate.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,stability.ai,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,midjourney.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,poe.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,character.ai,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,inflection.ai,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,pi.ai,🇺🇸 美国 US-10
+# - DOMAIN-KEYWORD,openai,🇺🇸 美国 US-10
+# - DOMAIN-KEYWORD,claude,🇺🇸 美国 US-10
+# - DOMAIN-KEYWORD,anthropic,🇺🇸 美国 US-10
+# - DOMAIN-KEYWORD,gemini.google,🇺🇸 美国 US-10
+# - DOMAIN-KEYWORD,generativelanguage,🇺🇸 美国 US-10
+# - DOMAIN-KEYWORD,cursor,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,google.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,google.com.hk,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,google.co.jp,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,googleapis.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,googleapis.cn,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,gstatic.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,ggpht.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,googleusercontent.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,googlesyndication.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,googleadservices.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,google-analytics.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,play.google.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,play.googleapis.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,android.clients.google.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,android.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,googleplay.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,play-fe.googleapis.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,play-games.googleusercontent.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,play-lh.googleusercontent.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,arxiv.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,biorxiv.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,medrxiv.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,ssrn.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,philpapers.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,zenodo.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,figshare.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,osf.io,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,springer.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,springerlink.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,link.springer.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,sciencedirect.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,elsevier.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,nature.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,science.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,sciencemag.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,wiley.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,onlinelibrary.wiley.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,tandfonline.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,sagepub.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,cambridge.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,oxfordjournals.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,academic.oup.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,oup.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,pnas.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,cell.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,thelancet.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,bmj.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,nejm.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,acs.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,pubs.acs.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,rsc.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,iop.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,iopscience.iop.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,aip.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,aps.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,mdpi.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,frontiersin.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,plos.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,plosone.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,hindawi.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,degruyter.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,karger.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,emerald.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,ingentaconnect.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,annualreviews.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,ieee.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,ieeexplore.ieee.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,acm.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,dl.acm.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,jstor.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,muse.jhu.edu,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,projecteuclid.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,mathscinet.ams.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,ams.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,siam.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,doi.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,crossref.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,orcid.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,scopus.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,webofscience.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,clarivate.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,dimensions.ai,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,lens.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,nih.gov,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,ncbi.nlm.nih.gov,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,pubmed.gov,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,pubmedcentral.nih.gov,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,clinicaltrials.gov,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,cochranelibrary.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,uptodate.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,medscape.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,webmd.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,scholar.google.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,semanticscholar.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,academia.edu,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,researchgate.net,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,mendeley.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,zotero.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,connectedpapers.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,scite.ai,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,litmaps.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,inciteful.xyz,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,base-search.net,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,core.ac.uk,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,worldcat.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,loc.gov,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,proquest.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,ebsco.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,ebscohost.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,gale.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,dblp.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,paperswithcode.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,openreview.net,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,aclweb.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,aclanthology.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,neurips.cc,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,icml.cc,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,iclr.cc,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,cvpr.org,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,thecvf.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,wolfram.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,wolframalpha.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,mathworld.wolfram.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,overleaf.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,sharelatex.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,authorea.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,hypothes.is,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,gmail.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,googlemail.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,mail.google.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,gemini.google.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,bard.google.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,deepmind.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,deepmind.google,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,aistudio.google.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,makersuite.google.com,🇺🇸 美国 US-10
+# - DOMAIN-KEYWORD,google,🇺🇸 美国 US-10
+# - DOMAIN-KEYWORD,scholar.google,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,tiktok.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,tiktokcdn.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,tiktokv.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,byteoversea.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,muscdn.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,musical.ly,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,tiktokcdn-us.com,🇺🇸 美国 US-10
+# - DOMAIN-SUFFIX,ibytedtos.com,🇺🇸 美国 US-10
+# - DOMAIN-KEYWORD,tiktok,🇺🇸 美国 US-10
 - DOMAIN-SUFFIX,cn,DIRECT
 - DOMAIN-SUFFIX,com.cn,DIRECT
 - DOMAIN-SUFFIX,net.cn,DIRECT
