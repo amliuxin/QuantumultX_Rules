@@ -16,16 +16,16 @@ proxy-groups:
     interval: 300
     tolerance: 100
     proxies:
-      - 美国 US-01
-      - 美国 US-02
-      - 美国 US-03
-      - 美国 US-04
-      - 美国 US-05
-      - 美国 US-06
-      - 美国 US-07
-      - 美国 US-08
-      - 美国 US-09
-      - 美国 US-10
+      - 🇺🇸 美国 US-01
+      - 🇺🇸 美国 US-02
+      - 🇺🇸 美国 US-03
+      - 🇺🇸 美国 US-04
+      - 🇺🇸 美国 US-05
+      - 🇺🇸 美国 US-06
+      - 🇺🇸 美国 US-07
+      - 🇺🇸 美国 US-08
+      - 🇺🇸 美国 US-09
+      - 🇺🇸 美国 US-10
 
   - name: 🇭🇰 AutoHK
     type: "fallback"
@@ -34,26 +34,26 @@ proxy-groups:
     interval: 300
     tolerance: 100
     proxies:
-      - 香港 HK-01
-      - 香港 HK-02
-      - 香港 HK-03
-      - 香港 HK-04
-      - 香港 HK-05
-      - 香港 HK-06
-      - 香港 HK-07
-      - 香港 HK-08
-      - 香港 HK-09
-      - 香港 HK-10
-      - 香港 HK-11
-      - 香港 HK-12
-      - 香港 HK-13
-      - 香港 HK-14
-      - 香港 HK-15
-      - 香港 HK-16
-      - 香港 HK-17
-      - 香港 HK-18
-      - 香港 HK-19
-      - 香港 HK-20
+      - 🇭🇰 香港 HK-01
+      - 🇭🇰 香港 HK-02
+      - 🇭🇰 香港 HK-03
+      - 🇭🇰 香港 HK-04
+      - 🇭🇰 香港 HK-05
+      - 🇭🇰 香港 HK-06
+      - 🇭🇰 香港 HK-07
+      - 🇭🇰 香港 HK-08
+      - 🇭🇰 香港 HK-09
+      - 🇭🇰 香港 HK-10
+      - 🇭🇰 香港 HK-11
+      - 🇭🇰 香港 HK-12
+      - 🇭🇰 香港 HK-13
+      - 🇭🇰 香港 HK-14
+      - 🇭🇰 香港 HK-15
+      - 🇭🇰 香港 HK-16
+      - 🇭🇰 香港 HK-17
+      - 🇭🇰 香港 HK-18
+      - 🇭🇰 香港 HK-19
+      - 🇭🇰 香港 HK-20
 
   - name: 🇯🇵 AutoJP
     type: "fallback"
@@ -62,16 +62,16 @@ proxy-groups:
     interval: 300
     tolerance: 100
     proxies:
-      - 日本 JP-01
-      - 日本 JP-02
-      - 日本 JP-03
-      - 日本 JP-04
-      - 日本 JP-05
-      - 日本 JP-06
-      - 日本 JP-07
-      - 日本 JP-08
-      - 日本 JP-09
-      - 日本 JP-10
+      - 🇯🇵 日本 JP-01
+      - 🇯🇵 日本 JP-02
+      - 🇯🇵 日本 JP-03
+      - 🇯🇵 日本 JP-04
+      - 🇯🇵 日本 JP-05
+      - 🇯🇵 日本 JP-06
+      - 🇯🇵 日本 JP-07
+      - 🇯🇵 日本 JP-08
+      - 🇯🇵 日本 JP-09
+      - 🇯🇵 日本 JP-10
 
   - name: 🇸🇬 AutoSG
     type: "fallback"
@@ -80,16 +80,16 @@ proxy-groups:
     interval: 300
     tolerance: 100
     proxies:
-      - 新加坡 SG-01
-      - 新加坡 SG-02
-      - 新加坡 SG-03
-      - 新加坡 SG-04
-      - 新加坡 SG-05
-      - 新加坡 SG-06
-      - 新加坡 SG-07
-      - 新加坡 SG-08
-      - 新加坡 SG-09
-      - 新加坡 SG-10
+      - 🇸🇬 新加坡 SG-01
+      - 🇸🇬 新加坡 SG-02
+      - 🇸🇬 新加坡 SG-03
+      - 🇸🇬 新加坡 SG-04
+      - 🇸🇬 新加坡 SG-05
+      - 🇸🇬 新加坡 SG-06
+      - 🇸🇬 新加坡 SG-07
+      - 🇸🇬 新加坡 SG-08
+      - 🇸🇬 新加坡 SG-09
+      - 🇸🇬 新加坡 SG-10
 
   - name: 🇹🇼 AutoTW
     type: "fallback"
@@ -98,16 +98,16 @@ proxy-groups:
     interval: 300
     tolerance: 100
     proxies:
-      - 台湾 TW-01
-      - 台湾 TW-02
-      - 台湾 TW-03
-      - 台湾 TW-04
-      - 台湾 TW-05
-      - 台湾 TW-06
-      - 台湾 TW-07
-      - 台湾 TW-08
-      - 台湾 TW-09
-      - 台湾 TW-10
+      - 🇹🇼 台湾 TW-01
+      - 🇹🇼 台湾 TW-02
+      - 🇹🇼 台湾 TW-03
+      - 🇹🇼 台湾 TW-04
+      - 🇹🇼 台湾 TW-05
+      - 🇹🇼 台湾 TW-06
+      - 🇹🇼 台湾 TW-07
+      - 🇹🇼 台湾 TW-08
+      - 🇹🇼 台湾 TW-09
+      - 🇹🇼 台湾 TW-10
 
   # - name: US
   #   type: "url-test"
